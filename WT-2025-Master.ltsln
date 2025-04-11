@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0
+Project("17CC47F9-B86F-4264-936F-F16921658FF1") = "WebTours-MasterScripts-2", "..\..\Users\misla\OneDrive\Desktop\2025-LoadTesting-UsingContoller\WebTours-MasterScripts-2\WebTours-MasterScripts-2.usr", "17CC47F9-B86F-4264-936F-F16921658FF1"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXG1pc2xhXE9uZURyaXZlXERlc2t0b3BcMjAyNS1Mb2FkVGVzdGluZy1Vc2luZ0NvbnRvbGxlclxXZWJUb3Vycy1NYXN0ZXJTY3JpcHRzLTJcV2ViVG91cnMtTWFzdGVyU2NyaXB0cy0yLnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT5XZWJUb3Vycy1NYXN0ZXJTY3JpcHRzLTIudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAyNS0wMi0yNFQxODoxNzo0MS44OTk5MTYxLTA1OjAwPC9Nb2RpZmllZD4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		17CC47F9-B86F-4264-936F-F16921658FF1.Debug|Any CPU.Build.0 = Debug|Any CPU
+		17CC47F9-B86F-4264-936F-F16921658FF1.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		17CC47F9-B86F-4264-936F-F16921658FF1.Release|Any CPU.Build.0 = Release|Any CPU
+		17CC47F9-B86F-4264-936F-F16921658FF1.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
